@@ -93,6 +93,48 @@
       <SubType>Designer</SubType>
     </Content>
     <AndroidResource Include="Resources\Raw\test.mp3" />
+    <AndroidResource Include="Resources\Raw\01 yes.mp3" />
+    <AndroidResource Include="Resources\Raw\02 no.mp3" />
+    <AndroidResource Include="Resources\Raw\03 food, please.mp3" />
+    <AndroidResource Include="Resources\Raw\04 wood, please.mp3" />
+    <AndroidResource Include="Resources\Raw\05 gold, please.mp3" />
+    <AndroidResource Include="Resources\Raw\06 stone, please.mp3" />
+    <AndroidResource Include="Resources\Raw\07 ahh.mp3" />
+    <AndroidResource Include="Resources\Raw\08 all hail.mp3" />
+    <AndroidResource Include="Resources\Raw\09 oooh.mp3" />
+    <AndroidResource Include="Resources\Raw\10 back to age 1.mp3" />
+    <AndroidResource Include="Resources\Raw\11 herb laugh.mp3" />
+    <AndroidResource Include="Resources\Raw\12 being rushed.mp3" />
+    <AndroidResource Include="Resources\Raw\13 blame your isp.mp3" />
+    <AndroidResource Include="Resources\Raw\14 start the game.mp3" />
+    <AndroidResource Include="Resources\Raw\15 don%27t point that thing.mp3" />
+    <AndroidResource Include="Resources\Raw\16 enemy sighted.mp3" />
+    <AndroidResource Include="Resources\Raw\17 it is good.mp3" />
+    <AndroidResource Include="Resources\Raw\18 i need a monk.mp3" />
+    <AndroidResource Include="Resources\Raw\19 long time no siege.mp3" />
+    <AndroidResource Include="Resources\Raw\20 my granny.mp3" />
+    <AndroidResource Include="Resources\Raw\21 nice town i%27ll take it.mp3" />
+    <AndroidResource Include="Resources\Raw\22 quit touchin.mp3" />
+    <AndroidResource Include="Resources\Raw\23 raiding party.mp3" />
+    <AndroidResource Include="Resources\Raw\24 dadgum.mp3" />
+    <AndroidResource Include="Resources\Raw\25 smite me.mp3" />
+    <AndroidResource Include="Resources\Raw\26 the wonder.mp3" />
+    <AndroidResource Include="Resources\Raw\27 you play 2 hours.mp3" />
+    <AndroidResource Include="Resources\Raw\28 you should see the other guy.mp3" />
+    <AndroidResource Include="Resources\Raw\29 roggan.mp3" />
+    <AndroidResource Include="Resources\Raw\30 wololo.mp3" />
+    <AndroidResource Include="Resources\Raw\31 attack an enemy now.mp3" />
+    <AndroidResource Include="Resources\Raw\32 cease creating extra villagers.mp3" />
+    <AndroidResource Include="Resources\Raw\33 create extra villagers.mp3" />
+    <AndroidResource Include="Resources\Raw\34 build a navy.mp3" />
+    <AndroidResource Include="Resources\Raw\35 stop building a navy.mp3" />
+    <AndroidResource Include="Resources\Raw\36 wait for my signal to attack.mp3" />
+    <AndroidResource Include="Resources\Raw\37 build a wonder.mp3" />
+    <AndroidResource Include="Resources\Raw\38 give me your extra resources.mp3" />
+    <AndroidResource Include="Resources\Raw\39 ally.mp3" />
+    <AndroidResource Include="Resources\Raw\40 enemy.mp3" />
+    <AndroidResource Include="Resources\Raw\41 neutral.mp3" />
+    <AndroidResource Include="Resources\Raw\42 what age are you in.mp3" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="..\AoE2SoundBoard\AoE2SoundBoard.projitems" Label="Shared" Condition="Exists('..\AoE2SoundBoard\AoE2SoundBoard.projitems')" />
