@@ -61,7 +61,13 @@ namespace AoE2SoundBoard.Droid
 		{
 			
 			// aapt resource value: 0x7f030000
-			public const int test = 2130903040;
+			public const int _01yes = 2130903040;
+			
+			// aapt resource value: 0x7f030001
+			public const int _02no = 2130903041;
+			
+			// aapt resource value: 0x7f030002
+			public const int test = 2130903042;
 			
 			static Raw()
 			{

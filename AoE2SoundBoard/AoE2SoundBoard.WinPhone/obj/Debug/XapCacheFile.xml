@@ -1,5 +1,5 @@
-﻿<xapCache source="C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\AoE2SoundBoard\AoE2SoundBoard.WinPhone\Bin\Debug\PhoneApp1_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="28/07/2015 20:24:43">
-  <file source="C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\AoE2SoundBoard\AoE2SoundBoard.WinPhone\obj\Debug\AoE2SoundBoard.WinPhone.dll" archivePath="AoE2SoundBoard.WinPhone.dll" lastWriteTime="28/07/2015 20:24:42" />
+﻿<xapCache source="C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\AoE2SoundBoard\AoE2SoundBoard.WinPhone\Bin\Debug\PhoneApp1_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="28/07/2015 21:20:32">
+  <file source="C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\AoE2SoundBoard\AoE2SoundBoard.WinPhone\obj\Debug\AoE2SoundBoard.WinPhone.dll" archivePath="AoE2SoundBoard.WinPhone.dll" lastWriteTime="28/07/2015 21:20:31" />
   <file source="C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\AoE2SoundBoard\AoE2SoundBoard.WinPhone\README_FIRST.txt" archivePath="README_FIRST.txt" lastWriteTime="30/06/2015 20:59:45" />
   <file source="C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\AoE2SoundBoard\AoE2SoundBoard.WinPhone\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="30/06/2015 20:59:45" />
   <file source="C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\AoE2SoundBoard\AoE2SoundBoard.WinPhone\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="30/06/2015 20:59:42" />
@@ -12,7 +12,7 @@
   <file source="C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\AoE2SoundBoard\AoE2SoundBoard.WinPhone\Toolkit.Content\ApplicationBar.Check.png" archivePath="Toolkit.Content\ApplicationBar.Check.png" lastWriteTime="30/06/2015 20:59:45" />
   <file source="C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\AoE2SoundBoard\AoE2SoundBoard.WinPhone\Toolkit.Content\ApplicationBar.Delete.png" archivePath="Toolkit.Content\ApplicationBar.Delete.png" lastWriteTime="30/06/2015 20:59:45" />
   <file source="C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\AoE2SoundBoard\AoE2SoundBoard.WinPhone\Toolkit.Content\ApplicationBar.Select.png" archivePath="Toolkit.Content\ApplicationBar.Select.png" lastWriteTime="30/06/2015 20:59:45" />
-  <file source="C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\AoE2SoundBoard\AoE2SoundBoard.WinPhone\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="28/07/2015 19:50:52" />
+  <file source="C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\AoE2SoundBoard\AoE2SoundBoard.WinPhone\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="28/07/2015 21:20:32" />
   <file source="C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\AoE2SoundBoard\AoE2SoundBoard.WinPhone\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="30/06/2015 20:59:42" />
   <file source="C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\AoE2SoundBoard\AoE2SoundBoard.WinPhone\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="30/06/2015 20:59:42" />
   <file source="C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\packages\WPtoolkit.4.2013.08.16\lib\wp8\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="30/06/2015 20:59:46" />
@@ -22,5 +22,5 @@
   <file source="C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\System.Windows.Interactivity.dll" archivePath="System.Windows.Interactivity.dll" lastWriteTime="25/09/2012 12:41:02" />
   <file source="C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\packages\Xamarin.Forms.1.3.3.6323\lib\WP80\Xamarin.Forms.Core.xml" archivePath="Xamarin.Forms.Core.xml" lastWriteTime="30/06/2015 20:59:46" />
   <file source="C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\packages\Xamarin.Forms.1.3.3.6323\lib\WP80\Xamarin.Forms.Xaml.xml" archivePath="Xamarin.Forms.Xaml.xml" lastWriteTime="30/06/2015 20:59:46" />
-  <file source="C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\AoE2SoundBoard\AoE2SoundBoard.WinPhone\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="28/07/2015 19:50:52" />
+  <file source="C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\AoE2SoundBoard\AoE2SoundBoard.WinPhone\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="28/07/2015 21:20:32" />
 </xapCache>

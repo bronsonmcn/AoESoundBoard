@@ -14,10 +14,14 @@ namespace AoE2SoundBoard.Droid
 
         private MediaPlayer _player;
 
-        public bool Play(string fileName)
+        public bool Play()
         {
-            _player = MediaPlayer.Create(global::Android.App.Application.Context, Resource.Raw.test);
+            _player = MediaPlayer.Create(global::Android.App.Application.Context, Resource.Raw._01yes);
             _player.Start();
+            _player.Completion += delegate
+            {
+                _player.Release();
+            };
 
             return true;
         }

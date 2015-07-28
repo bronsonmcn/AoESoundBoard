@@ -13,4 +13,9 @@ public final class R {
     public static final class drawable {
         public static int icon=0x7f020000;
     }
+    public static final class raw {
+        public static int _01yes=0x7f030000;
+        public static int _02no=0x7f030001;
+        public static int test=0x7f030002;
+    }
 }

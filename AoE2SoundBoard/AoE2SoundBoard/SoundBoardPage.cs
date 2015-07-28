@@ -17,7 +17,7 @@ namespace AoE2SoundBoard
             };
             button.Clicked += (sender, args) =>
             {
-                DependencyService.Get<IPlayAudio>().Play("test.mp3");
+                DependencyService.Get<IPlayAudio>().Play();
             };
 
             this.Content = button;

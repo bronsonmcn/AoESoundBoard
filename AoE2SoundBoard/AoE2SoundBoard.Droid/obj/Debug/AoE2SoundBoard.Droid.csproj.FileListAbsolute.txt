@@ -33,7 +33,9 @@ C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\AoE2SoundBoard\AoE2SoundBoard
 C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\AoE2SoundBoard\AoE2SoundBoard.Droid\obj\Debug\AoE2SoundBoard.Droid.pdb
 C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\AoE2SoundBoard\AoE2SoundBoard.Droid\obj\Debug\android\bin\AoE2SoundBoard.Droid.apk
 C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\AoE2SoundBoard\AoE2SoundBoard.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\AoE2SoundBoard\AoE2SoundBoard.Droid\obj\Debug\res\raw\_01yes.mp3
+C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\AoE2SoundBoard\AoE2SoundBoard.Droid\obj\Debug\res\raw\_02no.mp3
+C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\AoE2SoundBoard\AoE2SoundBoard.Droid\obj\Debug\res\raw\test.mp3
 C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\AoE2SoundBoard\AoE2SoundBoard.Droid\obj\Debug\R.cs.flag
 C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\AoE2SoundBoard\AoE2SoundBoard.Droid\obj\Debug\uploadflags.txt
 C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\AoE2SoundBoard\AoE2SoundBoard.Droid\obj\Debug\AoE2SoundBoard.Droid.csprojResolveAssemblyReference.cache
-C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\AoE2SoundBoard\AoE2SoundBoard.Droid\obj\Debug\res\raw\test.mp3
