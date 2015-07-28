@@ -13,11 +13,11 @@ namespace AoE2SoundBoard
         {
             Button button = new Button
             {
-                Text = String.Format("Tap for click count!")
+                Text = String.Format("Test")
             };
             button.Clicked += (sender, args) =>
             {
-                DependencyService.Get<IPlayAudio>().Play("Finna Fam Salty AF");
+                DependencyService.Get<IPlayAudio>().Play("test.mp3");
             };
 
             this.Content = button;

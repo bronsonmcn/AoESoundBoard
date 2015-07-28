@@ -1,9 +1,9 @@
-C:\Users\Bronson Laptop\Source\Repos\MobileApp\AoE2SoundBoard\AoE2SoundBoard\AoE2SoundBoard.Droid\bin\Debug\AoE2SoundBoard.Droid.dll
-C:\Users\Bronson Laptop\Source\Repos\MobileApp\AoE2SoundBoard\packages\Xamarin.Forms.1.3.3.6323\lib\MonoAndroid10\FormsViewGroup.dll
-C:\Users\Bronson Laptop\Source\Repos\MobileApp\AoE2SoundBoard\packages\Xamarin.Android.Support.v4.21.0.3.0\lib\MonoAndroid10\Xamarin.Android.Support.v4.dll
-C:\Users\Bronson Laptop\Source\Repos\MobileApp\AoE2SoundBoard\packages\Xamarin.Forms.1.3.3.6323\lib\MonoAndroid10\Xamarin.Forms.Core.dll
-C:\Users\Bronson Laptop\Source\Repos\MobileApp\AoE2SoundBoard\packages\Xamarin.Forms.1.3.3.6323\lib\MonoAndroid10\Xamarin.Forms.Platform.Android.dll
-C:\Users\Bronson Laptop\Source\Repos\MobileApp\AoE2SoundBoard\packages\Xamarin.Forms.1.3.3.6323\lib\MonoAndroid10\Xamarin.Forms.Xaml.dll
+C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\AoE2SoundBoard\AoE2SoundBoard.Droid\bin\Debug\AoE2SoundBoard.Droid.dll
+C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\packages\Xamarin.Forms.1.3.3.6323\lib\MonoAndroid10\FormsViewGroup.dll
+C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\packages\Xamarin.Android.Support.v4.21.0.3.0\lib\MonoAndroid10\Xamarin.Android.Support.v4.dll
+C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\packages\Xamarin.Forms.1.3.3.6323\lib\MonoAndroid10\Xamarin.Forms.Core.dll
+C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\packages\Xamarin.Forms.1.3.3.6323\lib\MonoAndroid10\Xamarin.Forms.Platform.Android.dll
+C:\Users\Bronson Laptop\Source\Repos\AoESoundBoard\packages\Xamarin.Forms.1.3.3.6323\lib\MonoAndroid10\Xamarin.Forms.Xaml.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Collections.Concurrent.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Collections.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.ComponentModel.Annotations.dll

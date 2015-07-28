@@ -6,6 +6,6 @@ namespace AoE2SoundBoard
 {
     interface IPlayAudio
     {
-        void Play(string text);
+        bool Play(string fileName);
     }
 }

@@ -1,50 +1,25 @@
 //Written by Bronson McNaughton, 2015.
 using System;
-using Android.Speech.Tts;
 using Xamarin.Forms;
 using AoE2SoundBoard.Droid;
-using System.Collections.Generic;
-using AoE2SoundBoard;
+using Android.Media;
 
-[assembly: Dependency(typeof(TextToSpeech_Android))]
+[assembly: Dependency(typeof(PlayAudio_Android))]
 
 namespace AoE2SoundBoard.Droid
 {
-    public class TextToSpeech_Android : Java.Lang.Object, IPlayAudio, TextToSpeech.IOnInitListener
+    public class PlayAudio_Android : IPlayAudio
     {
-        TextToSpeech speaker; string toSpeak;
-        public TextToSpeech_Android() { }
+        public PlayAudio_Android() { }
 
-        public void Play(string text)
-        {
-            var c = Forms.Context;
-            toSpeak = text;
-            if (speaker == null)
-            {
-                speaker = new TextToSpeech(c, this);
-            }
-            else
-            {
-                var p = new Dictionary<string, string>();
-                speaker.Speak(toSpeak, QueueMode.Flush, p);
-                System.Diagnostics.Debug.WriteLine("spoke " + toSpeak);
-            }
-        }
+        private MediaPlayer _player;
 
-        #region IOnInitListener implementation
-        public void OnInit(OperationResult status)
+        public bool Play(string fileName)
         {
-            if (status.Equals(OperationResult.Success))
-            {
-                System.Diagnostics.Debug.WriteLine("speaker init");
-                var p = new Dictionary<string, string>();
-                speaker.Speak(toSpeak, QueueMode.Flush, p);
-            }
-            else
-            {
-                System.Diagnostics.Debug.WriteLine("was quiet");
-            }
+            _player = MediaPlayer.Create(global::Android.App.Application.Context, Resource.Raw.test);
+            _player.Start();
+
+            return true;
         }
-        #endregion
     }
 }

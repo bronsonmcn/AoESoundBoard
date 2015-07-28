@@ -2,10 +2,6 @@ AoE2SoundBoard.Droid.MainActivity, AoE2SoundBoard.Droid;md5048257c366c03f73d6d28
 AoE2SoundBoard.Droid.MainActivity, AoE2SoundBoard.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5048257c366c03f73d6d2859a054a3cb3.MainActivity
 AoE2SoundBoard.Droid.MainActivity;md5048257c366c03f73d6d2859a054a3cb3.MainActivity
 aoe2soundboard.droid.MainActivity;md5048257c366c03f73d6d2859a054a3cb3.MainActivity
-AoE2SoundBoard.Droid.TextToSpeech_Android, AoE2SoundBoard.Droid;md5048257c366c03f73d6d2859a054a3cb3.TextToSpeech_Android
-AoE2SoundBoard.Droid.TextToSpeech_Android, AoE2SoundBoard.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5048257c366c03f73d6d2859a054a3cb3.TextToSpeech_Android
-AoE2SoundBoard.Droid.TextToSpeech_Android;md5048257c366c03f73d6d2859a054a3cb3.TextToSpeech_Android
-aoe2soundboard.droid.TextToSpeech_Android;md5048257c366c03f73d6d2859a054a3cb3.TextToSpeech_Android
 Android.Support.V4.App.FragmentManager/IOnBackStackChangedListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
 Android.Support.V4.App.FragmentManager/IOnBackStackChangedListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
 Android.Support.V4.App.FragmentManager.IOnBackStackChangedListenerImplementor;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
